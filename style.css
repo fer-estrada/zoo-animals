@@ -1,0 +1,32 @@
+body {
+    background-color: ivory;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+img {
+    height: 225px;
+    margin-left: 38%;
+    margin-right: auto;
+}
+
+a {
+    text-align: center;
+    position:static;
+}
+
+footer {
+    text-align: center;
+    color: ivory;
+    background-color: black;
+    padding: 5px;
+}
